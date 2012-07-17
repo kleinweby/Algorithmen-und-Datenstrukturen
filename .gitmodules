@@ -1,0 +1,3 @@
+[submodule "vendor/aud-libs"]
+	path = vendor/aud-libs
+	url = http://visual.cs.ovgu.de/git/aud-public.git
